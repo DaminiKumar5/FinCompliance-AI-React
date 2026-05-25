@@ -1,0 +1,6 @@
+{
+  "name": "FinCompliance",
+  "description": "Multi-Agent Corporate Tax & Audit Auditor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
